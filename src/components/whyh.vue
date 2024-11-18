@@ -1,5 +1,5 @@
 <template>
-  <div>whyh</div>
+  <div>whr</div>
 </template>
 
 <script setup lang="ts"></script>
